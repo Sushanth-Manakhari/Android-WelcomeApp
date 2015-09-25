@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome</string>
+
+    <string name="hello_world">Click On the Settings Options to Log-In</string>
+    <string name="action_settings">Log-In</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_message_display">MessageDisplayActivity</string>
+</resources>
